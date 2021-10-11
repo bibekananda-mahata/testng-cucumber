@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is D85A-B34C
+
+ Directory of C:\Users\bibekanandam\Desktop\Git\MyFolder
+
+11-10-2021  13:43    <DIR>          .
+11-10-2021  13:43    <DIR>          ..
+11-10-2021  11:20               397 index.html
+11-10-2021  11:19                 9 test1.txt
+11-10-2021  13:43                 0 test2.txt
+               3 File(s)            406 bytes
+               2 Dir(s)  60,461,084,672 bytes free
